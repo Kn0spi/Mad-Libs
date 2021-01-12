@@ -1,2 +1,2 @@
 # Mad-Libs
-Simple Python Mad Libs
+Simple Python Mad Libs (Deutsch)
